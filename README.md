@@ -23,7 +23,7 @@ To set up Friendtastic on your system using Docker, follow these steps:
 ### Setting up the project
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/UOA-CS732-SE750-Students-2024/project-group-quirky-quails.git
+   
 
    cd friendtastic
    ```
@@ -301,13 +301,3 @@ Thank you for exploring Friendtastic! We hope this guide helps you understand ho
 ## Deployment
 Our application is deployed at [https://www.friendtastic.fun](https://www.friendtastic.fun). 
 
-
-## Team Members
-- Qizheng Hu
-- Jiayi Chen
-- Jie Hong
-- Xuan Luo
-- Junwei Li
-- Sui Kit Cheung
-
-![](./group-image/Quirky%20Quails.webp)
