@@ -1,0 +1,39 @@
+services:
+  backend:
+    image: node:20
+    volumes:
+      - ./backend:/app
+    working_dir: /app
+    command: sh -c "npm install && npm run dev"
+    ports:
+      - "3000:3000"
+    environment:
+      - MONGOMS_DOWNLOAD_URL=https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-debian12-7.0.7.tgz
+      - MONGOMS_VERSION=7.0.7
+    networks:
+      - cs732
+
+  frontend:
+    image: node:20-alpine
+    volumes:
+      - ./frontend:/app
+    working_dir: /app
+    command: sh -c "npm install && npm run dev -- --host"
+    ports:
+      - "5173:5173"
+    networks:
+      - cs732
+
+  mongo:
+    image: mongo:7.0.7
+    ports:
+      - "27017:27017"
+    networks:
+      - cs732
+
+networks:
+  cs732:
+    name: cs732
+    driver: bridge
+
+
