@@ -1,0 +1,59 @@
+[{
+  "_id":  "663b542aed9e63e176a6d75d"
+  ,
+  "firstName": "Test",
+  "lastName": "Test",
+  "email": "Test@outlook.com",
+  "password": "123456",
+  "createdAt": "2024-05-04T08:00:00.000Z"
+},
+{
+  "_id":"663b5461ca78a65fbc3874de",
+  "firstName": "Qizheng",
+  "lastName": "Hu",
+  "email": "QizhengHu@outlook.com",
+  "password": "$2b$10$55yesIGdNQhJrxDbl4lub.mySYF/NSB67u0qDbmCRtHDbc5QOEpy6",
+  "createdAt": "2024-05-08T10:30:57.541Z"
+},
+{
+  "_id": "663b5d2dca78a65fbc38752f"
+  ,
+  "firstName": "Jie",
+  "lastName": "Hong",
+  "email": "JieHong@outlook.com",
+  "password": "$2b$10$aosNYh1eNcVKLGTlD6Drje5kyE7LVxAcGH9krUukZBgG/HFiLeGaO",
+  "createdAt": "2024-05-08T11:08:29.930Z"
+
+},
+{
+  "_id": "663b626bca78a65fbc387562",
+  "firstName": "Jiayi",
+  "lastName": "Chen",
+  "email": "JiayiChen@outlook.com",
+  "password": "$2b$10$CH4ihuo8b1r37Gl5B3GL.ungDyrC7ClTJNMHPenD5X0g7yTMPPGeC",
+  "createdAt":  "2024-05-08T11:30:51.376Z"
+},
+{
+  "_id": "663b6574ca78a65fbc387591",
+  "firstName": "Xuan",
+  "lastName": "Luo",
+  "email": "XuanLuo@outlook.com",
+  "password": "$2b$10$ACtDXizK/HoUCxm9jqAPmOkcuHHrojoM/wpKOBQ.jv2mJzl277aCG",
+  "createdAt":"2024-05-08T11:43:48.337Z"
+},
+{
+  "_id": "663b681dca78a65fbc3875be",
+  "firstName": "Junwei",
+  "lastName": "Li",
+  "email": "JunweiLi@outlook.com",
+  "password": "$2b$10$8NXulo2pTj6K8hnIHAe4PetSIDFTcpXVQOxzbDKto2z4JXyrAhlTi",
+  "createdAt":"2024-05-08T11:55:09.141Z"
+},
+{
+  "_id":  "663b6b2aca78a65fbc3875f3",
+  "firstName": "Ryan",
+  "lastName": "Cheung",
+  "email": "RyanCheung@outlook.com",
+  "password": "$2b$10$9fw7GtWh/qM.yURF29AWNuGyACf.aRPJdObbTFW/DnVu5qJbXMHna",
+  "createdAt": "2024-05-08T12:08:10.059Z"
+}]

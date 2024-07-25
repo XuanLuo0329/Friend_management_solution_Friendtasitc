@@ -1,0 +1,1085 @@
+[{
+  "_id":  "663b542aed9e63e176a6d75f",
+  "userId": "663b542aed9e63e176a6d75d",
+  "name": "Test Friend",
+  "birthday": "2000-04-10T00:00:00.000Z",
+  "gender": "Male",
+  "relationship": "Test Friend",
+  "mbtiType": "ENTJ",
+  "hobbies": [
+    "Test Test Test"
+  ],
+  "skills": [
+    "Test Test Test"
+  ],
+  "preferences": {
+    "likes": [
+      "Test Test Test"
+    ],
+    "dislikes": [
+      "Test Test Test"
+    ]
+  }
+},
+{
+  "_id": "663b5506ca78a65fbc3874e7",
+  "userId": "663b5461ca78a65fbc3874de",
+  "name": "Jiayi Chen",
+  "birthday": "1995-10-15T00:00:00.000Z",
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "INTJ",
+  "hobbies": [
+    "Photography, Astrology, Painting, Traveling"
+  ],
+  "skills": [
+    "Photography"
+  ],
+  "preferences": {
+    "likes": [
+      "Art galleries, Nature, Cats"
+    ],
+    "dislikes": [
+      "Crocodiles, Frogs"
+    ]
+  }
+},
+{
+  "_id": "663b5577ca78a65fbc3874eb",
+  "userId": "663b5461ca78a65fbc3874de",
+  "name": "Xuan Luo",
+  "birthday": "1995-08-15T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "ISFP",
+  "hobbies": [
+    "Stand-up comedy, Chatting"
+  ],
+  "skills": [
+    "Public Speaking, Creative Writing"
+  ],
+  "preferences": {
+    "likes": [
+      "Stand-up shows, Going to Amusement Park"
+    ],
+    "dislikes": [
+      "Crowded places, Air pollution"
+    ]
+  }
+},
+{
+  "_id":"663b55efca78a65fbc3874ef"
+  ,
+  "userId": "663b5461ca78a65fbc3874de"
+  ,
+  "name": "Junwei Li",
+  "birthday": "1990-11-30T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Family",
+  "mbtiType": "ISTJ",
+  "hobbies": [
+    "Hiking, Gardening"
+  ],
+  "skills": [
+    "Project Management, Programming, Leadership"
+  ],
+  "preferences": {
+    "likes": [
+      "Organised spaces, Morning jogs"
+    ],
+    "dislikes": [
+      "Disorder, Late nights"
+    ]
+  }
+},
+{
+  "_id": "663b567bca78a65fbc3874f3",
+  "userId": "663b5461ca78a65fbc3874de"
+  ,
+  "name": "Jie Hong",
+  "birthday": "1997-11-24T00:00:00.000Z",
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "INTJ",
+  "hobbies": [
+    "Data Analysis, Solving problems"
+  ],
+  "skills": [
+    "Mathematics, Programming, Debugging"
+  ],
+  "preferences": {
+    "likes": [
+      "Quiet rooms, Sleeping in at weekends, Dogs"
+    ],
+    "dislikes": [
+      "Loud music, Cold weather"
+    ]
+  }
+},
+{
+  "_id": "663b56f9ca78a65fbc3874f7",
+  "userId": "663b5461ca78a65fbc3874de",
+  "name": "Ryan Cheung",
+  "birthday": "1990-06-22T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Family",
+  "mbtiType": "INFP",
+  "hobbies": [
+    "Blogging, Exploring the nature, City walk"
+  ],
+  "skills": [
+    "Financial analysis, Data Science, Programming"
+  ],
+  "preferences": {
+    "likes": [
+      "New technologies, Quiet places"
+    ],
+    "dislikes": [
+      "Routine tasks, Onions"
+    ]
+  }
+},
+{
+  "_id": "663b580dca78a65fbc3874fb",
+  "userId": "663b5461ca78a65fbc3874de",
+  "name": "Liang Zhao",
+  "birthday": "1998-08-13T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Friend",
+  "mbtiType": "ISTJ",
+  "hobbies": [
+    "Chess, Reading"
+  ],
+  "skills": [
+    "Mathematics, Physics"
+  ],
+  "preferences": {
+    "likes": [
+      "Quiet evenings, Sunshine"
+    ],
+    "dislikes": [
+      "Spicy food, Tamatoes"
+    ]
+  }
+},
+{
+  "_id": "663b584bca78a65fbc3874ff",
+  "userId": "663b5461ca78a65fbc3874de",
+  "name": "Mei Lin",
+  "birthday": "1999-09-10T00:00:00.000Z",
+  "gender": "Female",
+  "relationship": "Colleague",
+  "mbtiType": "ENFP",
+  "hobbies": [
+    "Cooking, Yoga"
+  ],
+  "skills": [
+    "Team Management, Negotiation"
+  ],
+  "preferences": {
+    "likes": [
+      "Healthy food"
+    ],
+    "dislikes": [
+      "Rudeness"
+    ]
+  }
+},
+{
+  "_id": "663b5da8ca78a65fbc387538",
+  "userId": "663b5d2dca78a65fbc38752f",
+  "name": "Jiayi Chen",
+  "birthday":  "1995-10-15T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "INTJ",
+  "hobbies": [
+    "Photography, Astrology, Painting, Traveling"
+  ],
+  "skills": [
+    "Photography"
+  ],
+  "preferences": {
+    "likes": [
+      "Art galleries, Nature, Cats"
+    ],
+    "dislikes": [
+      "Crocodiles, Frogs"
+    ]
+  }
+},
+{
+  "_id":"663b5df0ca78a65fbc38753c"
+  ,
+  "userId": "663b5d2dca78a65fbc38752f",
+  "name": "Xuan Luo",
+  "birthday": "1995-08-15T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "ISFP",
+  "hobbies": [
+    "Stand-up comedy, Chatting"
+  ],
+  "skills": [
+    "Public Speaking, Creative Writing"
+  ],
+  "preferences": {
+    "likes": [
+      "Stand-up shows, Going to Amusement Park"
+    ],
+    "dislikes": [
+      "Crowded places, Air pollution"
+    ]
+  }
+},
+{
+  "_id": "663b5e3eca78a65fbc387540",
+  "userId": "663b5d2dca78a65fbc38752f",
+  "name": "Junwei Li",
+  "birthday": "1990-11-30T00:00:00.000Z",
+  "gender": "Male",
+  "relationship": "Team Leader",
+  "mbtiType": "ISTJ",
+  "hobbies": [
+    "Hiking, Gardening"
+  ],
+  "skills": [
+    "Project Management, Programming, Leadership"
+  ],
+  "preferences": {
+    "likes": [
+      "Organised spaces, Morning jogs"
+    ],
+    "dislikes": [
+      "Disorder, Late nights"
+    ]
+  }
+},
+{
+  "_id": "663b5e9bca78a65fbc387544",
+  "userId": "663b5d2dca78a65fbc38752f",
+  "name": "Ryan Cheung",
+  "birthday":  "1990-06-22T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Friend",
+  "mbtiType": "INFP",
+  "hobbies": [
+    "Blogging, Exploring the nature, City walk"
+  ],
+  "skills": [
+    "Financial analysis, Data Science, Programming"
+  ],
+  "preferences": {
+    "likes": [
+      "New technologies, Quiet places"
+    ],
+    "dislikes": [
+      "Routine tasks, Onions"
+    ]
+  }
+},
+{
+  "_id":  "663b5f5eca78a65fbc387548",
+  "userId": "663b5d2dca78a65fbc38752f",
+  "name": "Qizheng Hu",
+  "birthday": "2000-03-10T00:00:00.000Z"
+,
+  "gender": "Male",
+  "relationship": "Friend",
+  "mbtiType": "INTP",
+  "hobbies": [
+    "Playing video games, Watching movies, Programming"
+  ],
+  "skills": [
+    "Programming, Java, HTML"
+  ],
+  "preferences": {
+    "likes": [
+      "Dogs, Staying at home, Quite places"
+    ],
+    "dislikes": [
+      "Crowded places, Public speaking"
+    ]
+  }
+},
+{
+  "_id": "663b5fe5ca78a65fbc38754c",
+  "userId": "663b5d2dca78a65fbc38752f",
+  "name": "Ling Chen",
+  "birthday": "1993-05-10T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Neighbour",
+  "mbtiType": "ENFP",
+  "hobbies": [
+    "Gardening, Cooking"
+  ],
+  "skills": [
+    "Herbal Medicine, Nutrition"
+  ],
+  "preferences": {
+    "likes": [
+      "Organic food, Vegetables"
+    ],
+    "dislikes": [
+      "Pollution, Dogs"
+    ]
+  }
+},
+{
+  "_id": "663b6036ca78a65fbc387550",
+  "userId":"663b5d2dca78a65fbc38752f",
+  "name": "Ming Zhao",
+  "birthday":"1993-05-25T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Classmate",
+  "mbtiType": "ESTP",
+  "hobbies": [
+    "Writing, Chess"
+  ],
+  "skills": [
+    "Programming, Analytical Thinking"
+  ],
+  "preferences": {
+    "likes": [
+      " Logic puzzles, Lego"
+    ],
+    "dislikes": [
+      "Unpredictability, Disorganised room"
+    ]
+  }
+},
+{
+  "_id": "663b62d5ca78a65fbc38756b"
+  ,
+  "userId":  "663b626bca78a65fbc387562"
+  ,
+  "name": "Jie Hong",
+  "birthday": "1997-11-24T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "INTJ",
+  "hobbies": [
+    "Data Analysis, Solving problems"
+  ],
+  "skills": [
+    "Mathematics, Programming, Debugging"
+  ],
+  "preferences": {
+    "likes": [
+      "Quiet rooms, Sleeping in at weekends, Dogs"
+    ],
+    "dislikes": [
+      "Loud music, Cold weather"
+    ]
+  }
+},
+{
+  "_id": "663b631cca78a65fbc38756f"
+  ,
+  "userId": "663b626bca78a65fbc387562"
+  ,
+  "name": "Qizheng Hu",
+  "birthday": "2003-03-10T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Friend",
+  "mbtiType": "INTP",
+  "hobbies": [
+    "Playing video games, Watching movies, Programming"
+  ],
+  "skills": [
+    "Programming, Java, HTML"
+  ],
+  "preferences": {
+    "likes": [
+      "Dogs, Staying at home, Quite places"
+    ],
+    "dislikes": [
+      "Crowded places, Public speaking"
+    ]
+  }
+},
+{
+  "_id": "663b6375ca78a65fbc387573"
+  ,
+  "userId": "663b626bca78a65fbc387562"
+  ,
+  "name": "Xuan Luo",
+  "birthday":  "1995-08-15T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "ISFP",
+  "hobbies": [
+    "Stand-up comedy, Chatting"
+  ],
+  "skills": [
+    "Public Speaking, Creative Writing"
+  ],
+  "preferences": {
+    "likes": [
+      "Stand-up shows, Going to Amusement Park"
+    ],
+    "dislikes": [
+      "Crowded places, Air pollution"
+    ]
+  }
+},
+{
+  "_id":  "663b63b9ca78a65fbc387577"
+  ,
+  "userId":  "663b626bca78a65fbc387562"
+  ,
+  "name": "Junwei Li",
+  "birthday":  "1990-11-30T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Team Leader",
+  "mbtiType": "ISTJ",
+  "hobbies": [
+    "Hiking, Gardening"
+  ],
+  "skills": [
+    "Project Management, Programming, Leadership"
+  ],
+  "preferences": {
+    "likes": [
+      "Organised spaces, Morning jogs"
+    ],
+    "dislikes": [
+      "Disorder, Late nights"
+    ]
+  }
+},
+{
+  "_id": "663b6404ca78a65fbc38757b"
+  ,
+  "userId":  "663b626bca78a65fbc387562"
+  ,
+  "name": "Ryan Cheung",
+  "birthday":  "1990-06-22T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Friend",
+  "mbtiType": "INFP",
+  "hobbies": [
+    "Blogging, Exploring the nature, City walk"
+  ],
+  "skills": [
+    "Financial analysis, Data Science, Programming"
+  ],
+  "preferences": {
+    "likes": [
+      "New technologies, Quiet places"
+    ],
+    "dislikes": [
+      "Routine tasks, Onions"
+    ]
+  }
+},
+{
+  "_id":"663b644eca78a65fbc38757f"
+  ,
+  "userId": "663b626bca78a65fbc387562"
+  ,
+  "name": "Lei Gao",
+  "birthday": "1994-10-10T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Childhood Friend",
+  "mbtiType": "ISTJ",
+  "hobbies": [
+    "Model building, Reading"
+  ],
+  "skills": [
+    "Planning, Engineering"
+  ],
+  "preferences": {
+    "likes": [
+      "Detailed projects"
+    ],
+    "dislikes": [
+      "Detailed projects"
+    ]
+  }
+},
+{
+  "_id": "663b64a3ca78a65fbc387583"
+  ,
+  "userId":  "663b626bca78a65fbc387562"
+  ,
+  "name": "Qian Sun",
+  "birthday": "1996-12-21T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Neighbour",
+  "mbtiType": "ESFP",
+  "hobbies": [
+    "Dancing, Socialising"
+  ],
+  "skills": [
+    "Networking, Public speaking"
+  ],
+  "preferences": {
+    "likes": [
+      "Parties"
+    ],
+    "dislikes": [
+      "Staying alone"
+    ]
+  }
+},
+{
+  "_id": "663b65d6ca78a65fbc38759a"
+  ,
+  "userId": "663b6574ca78a65fbc387591"
+  ,
+  "name": "Qizheng Hu",
+  "birthday":  "2003-03-10T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Friend",
+  "mbtiType": "INTP",
+  "hobbies": [
+    "Playing video games, Watching movies, Programming"
+  ],
+  "skills": [
+    "Programming, Java, HTML"
+  ],
+  "preferences": {
+    "likes": [
+      "Dogs, Staying at home, Quite places"
+    ],
+    "dislikes": [
+      "Crowded places, Public speaking"
+    ]
+  }
+},
+{
+  "_id": "663b6613ca78a65fbc38759e"
+  ,
+  "userId":"663b6574ca78a65fbc387591"
+  ,
+  "name": "Jie Hong",
+  "birthday":"1997-11-24T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "INTJ",
+  "hobbies": [
+    "Data Analysis, Solving problems"
+  ],
+  "skills": [
+    "Mathematics, Programming, Debugging"
+  ],
+  "preferences": {
+    "likes": [
+      "Quiet rooms, Sleeping in at weekends, Dogs"
+    ],
+    "dislikes": [
+      "Loud music, Cold weather"
+    ]
+  }
+},
+{
+  "_id":  "663b6669ca78a65fbc3875a2"
+  ,
+  "userId":  "663b6574ca78a65fbc387591"
+  ,
+  "name": "Jiayi Chen",
+  "birthday":  "1995-10-15T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "INTJ",
+  "hobbies": [
+    "Photography, Astrology, Painting, Traveling"
+  ],
+  "skills": [
+    "Photography"
+  ],
+  "preferences": {
+    "likes": [
+      "Art galleries, Nature, Cats"
+    ],
+    "dislikes": [
+      "Crocodiles, Frogs"
+    ]
+  }
+},
+{
+  "_id":  "663b66abca78a65fbc3875a6"
+  ,
+  "userId": "663b6574ca78a65fbc387591"
+  ,
+  "name": "Junwei Li",
+  "birthday":  "1990-11-30T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Team Leader",
+  "mbtiType": "ISTJ",
+  "hobbies": [
+    "Hiking, Gardening"
+  ],
+  "skills": [
+    "Project Management, Programming, Leadership"
+  ],
+  "preferences": {
+    "likes": [
+      "Organised spaces, Morning jogs"
+    ],
+    "dislikes": [
+      "Disorder, Late nights"
+    ]
+  }
+},
+{
+  "_id":  "663b66eaca78a65fbc3875aa"
+  ,
+  "userId":  "663b6574ca78a65fbc387591"
+  ,
+  "name": "Ryan Cheung",
+  "birthday":  "1990-06-22T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Friend",
+  "mbtiType": "INFP",
+  "hobbies": [
+    "Blogging, Exploring the nature, City walk"
+  ],
+  "skills": [
+    "Financial analysis, Data Science, Programming"
+  ],
+  "preferences": {
+    "likes": [
+      "New technologies, Quiet places"
+    ],
+    "dislikes": [
+      "Routine tasks, Onions"
+    ]
+  }
+},
+{
+  "_id": "663b6756ca78a65fbc3875ae"
+,
+  "userId": "663b6574ca78a65fbc387591"
+  ,
+  "name": "Bo Zhang",
+  "birthday":  "1995-03-24T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Work Colleague",
+  "mbtiType": "INTP",
+  "hobbies": [
+    "Programming, Puzzles"
+  ],
+  "skills": [
+    "Coding, Problem Solving"
+  ],
+  "preferences": {
+    "likes": [
+      "Technology"
+    ],
+    "dislikes": [
+      "Distractions, Crowds"
+    ]
+  }
+},
+{
+  "_id": "663b679bca78a65fbc3875b2"
+  ,
+  "userId": "663b6574ca78a65fbc387591"
+  ,
+  "name": "Lan Wang",
+  "birthday":"1994-10-11T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "College Roommate",
+  "mbtiType": "INFJ",
+  "hobbies": [
+    "Writing, Meditation"
+  ],
+  "skills": [
+    "Counselling, Critical Thinking"
+  ],
+  "preferences": {
+    "likes": [
+      "Yoga, Snowboarding, Skiing"
+    ],
+    "dislikes": [
+      "Chaos, Rainy days"
+    ]
+  }
+},
+{
+  "_id": "663b687cca78a65fbc3875c7"
+  ,
+  "userId":"663b681dca78a65fbc3875be"
+  ,
+  "name": "Ryan Cheung",
+  "birthday": "1990-06-22T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Brother",
+  "mbtiType": "INFP",
+  "hobbies": [
+    "Blogging, Exploring the nature, City walk"
+  ],
+  "skills": [
+    "Financial analysis, Data Science, Programming"
+  ],
+  "preferences": {
+    "likes": [
+      "New technologies, Quiet places"
+    ],
+    "dislikes": [
+      "Routine tasks, Onions"
+    ]
+  }
+},
+{
+  "_id": "663b68c4ca78a65fbc3875cb"
+  ,
+  "userId": "663b681dca78a65fbc3875be"
+  ,
+  "name": "Xuan Luo",
+  "birthday": "1995-08-15T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "ISFP",
+  "hobbies": [
+    "Stand-up comedy, Chatting"
+  ],
+  "skills": [
+    "Public Speaking, Creative Writing"
+  ],
+  "preferences": {
+    "likes": [
+      "Stand-up shows, Going to Amusement Park"
+    ],
+    "dislikes": [
+      "Crowded places, Air pollution"
+    ]
+  }
+},
+{
+  "_id":  "663b68fcca78a65fbc3875cf"
+  ,
+  "userId": "663b681dca78a65fbc3875be"
+  ,
+  "name": "Qizheng Hu",
+  "birthday":"2003-03-10T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Family",
+  "mbtiType": "INTP",
+  "hobbies": [
+    "Playing video games, Watching movies, Programming"
+  ],
+  "skills": [
+    "Programming, Java, HTML"
+  ],
+  "preferences": {
+    "likes": [
+      "Dogs, Staying at home, Quite places"
+    ],
+    "dislikes": [
+      "Crowded places, Public speaking"
+    ]
+  }
+},
+{
+  "_id":  "663b693eca78a65fbc3875d3"
+  ,
+  "userId": "663b681dca78a65fbc3875be"
+  ,
+  "name": "Jie Hong",
+  "birthday":  "1997-11-24T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Data Analysis, Solving problems",
+  "mbtiType": "INTJ",
+  "hobbies": [
+    "Data Analysis, Solving problems"
+  ],
+  "skills": [
+    "Mathematics, Programming, Debugging"
+  ],
+  "preferences": {
+    "likes": [
+      "Quiet rooms, Sleeping in at weekends, Dogs"
+    ],
+    "dislikes": [
+      "Loud music, Cold weather"
+    ]
+  }
+},
+{
+  "_id":  "663b6991ca78a65fbc3875d9"
+  ,
+  "userId":  "663b681dca78a65fbc3875be"
+  ,
+  "name": "Jiayi Chen",
+  "birthday":  "1995-10-15T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "INTJ",
+  "hobbies": [
+    "Photography, Astrology, Painting, Traveling"
+  ],
+  "skills": [
+    "Photography"
+  ],
+  "preferences": {
+    "likes": [
+      "Art galleries, Nature, Cats"
+    ],
+    "dislikes": [
+      "Crocodiles, Frogs"
+    ]
+  }
+},
+{
+  "_id":  "663b69deca78a65fbc3875dd"
+  ,
+  "userId":"663b681dca78a65fbc3875be"
+  ,
+  "name": "Tao Li",
+  "birthday": "1994-09-13T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "High School Friend",
+  "mbtiType": "ESTP",
+  "hobbies": [
+    "Skiing, Traveling, Scuba diving"
+  ],
+  "skills": [
+    "Risk Management, Adaptability"
+  ],
+  "preferences": {
+    "likes": [
+      "Snow"
+    ],
+    "dislikes": [
+      "Heat, Dogs"
+    ]
+  }
+},
+{
+  "_id":"663b6a30ca78a65fbc3875e1"
+  ,
+  "userId": "663b681dca78a65fbc3875be"
+  ,
+  "name": "An Gao",
+  "birthday": "1993-10-12T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Childhood Friend",
+  "mbtiType": "ISTJ",
+  "hobbies": [
+    "Model building, Reading"
+  ],
+  "skills": [
+    "Planning, Engineering"
+  ],
+  "preferences": {
+    "likes": [
+      "Tidy rooms, Play tennis"
+    ],
+    "dislikes": [
+      "Party"
+    ]
+  }
+},
+{
+  "_id": "663b6b82ca78a65fbc3875fc"
+  ,
+  "userId": "663b6b2aca78a65fbc3875f3"
+  ,
+  "name": "Junwei Li",
+  "birthday": "1990-11-30T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Team Leader",
+  "mbtiType": "ISTJ",
+  "hobbies": [
+    "Hiking, Gardening"
+  ],
+  "skills": [
+    "Project Management, Programming, Leadership"
+  ],
+  "preferences": {
+    "likes": [
+      "Organised spaces, Morning jogs"
+    ],
+    "dislikes": [
+      "Disorder, Late nights"
+    ]
+  }
+},
+{
+  "_id":  "663b6bc4ca78a65fbc387600"
+  ,
+  "userId":  "663b6b2aca78a65fbc3875f3"
+  ,
+  "name": "Xuan Luo",
+  "birthday": "1995-08-15T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "ISFP",
+  "hobbies": [
+    "Stand-up comedy, Chatting"
+  ],
+  "skills": [
+    "Public Speaking, Creative Writing"
+  ],
+  "preferences": {
+    "likes": [
+      "Stand-up shows, Going to Amusement Park"
+    ],
+    "dislikes": [
+      "Crowded places, Air pollution"
+    ]
+  }
+},
+{
+  "_id": "663b6bfeca78a65fbc387604"
+  ,
+  "userId": "663b6b2aca78a65fbc3875f3"
+  ,
+  "name": "Qizheng Hu",
+  "birthday": "2003-03-10T00:00:00.000Z"
+  ,
+  "gender": "Male",
+  "relationship": "Friend",
+  "mbtiType": "INTP",
+  "hobbies": [
+    "Playing video games, Watching movies, Programming"
+  ],
+  "skills": [
+    "Programming, Java, HTML"
+  ],
+  "preferences": {
+    "likes": [
+      "Dogs, Staying at home, Quite places"
+    ],
+    "dislikes": [
+      "Crowded places, Public speaking"
+    ]
+  }
+},
+{
+  "_id": "663b6c34ca78a65fbc387608"
+  ,
+  "userId": "663b6b2aca78a65fbc3875f3"
+  ,
+  "name": "Jie Hong",
+  "birthday": "1997-11-24T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "INTJ",
+  "hobbies": [
+    "Data Analysis, Solving problems"
+  ],
+  "skills": [
+    "Mathematics, Programming, Debugging"
+  ],
+  "preferences": {
+    "likes": [
+      "Quiet rooms, Sleeping in at weekends, Dogs"
+    ],
+    "dislikes": [
+      "Loud music, Cold weather"
+    ]
+  }
+},
+{
+  "_id":  "663b6c7fca78a65fbc38760e"
+  ,
+  "userId":"663b6b2aca78a65fbc3875f3"
+  ,
+  "name": "Jiayi Chen",
+  "birthday": "1995-10-15T00:00:00.000Z"
+  ,
+  "gender": "Female",
+  "relationship": "Friend",
+  "mbtiType": "INTJ",
+  "hobbies": [
+    "Photography, Astrology, Painting, Traveling"
+  ],
+  "skills": [
+    "Photography"
+  ],
+  "preferences": {
+    "likes": [
+      "Art galleries, Nature, Cats"
+    ],
+    "dislikes": [
+      "Crocodiles, Frogs"
+    ]
+  }
+},
+{
+  "_id": "663b6ccaca78a65fbc387612"
+  ,
+  "userId": "663b6b2aca78a65fbc3875f3"
+  ,
+  "name": "Huan Li",
+  "birthday": "1995-05-18T00:00:00.000Z",
+  "gender": "Female",
+  "relationship": "University Friend",
+  "mbtiType": "ESTP",
+  "hobbies": [
+    "Traveling, Photography"
+  ],
+  "skills": [
+    "Logistics, Planning"
+  ],
+  "preferences": {
+    "likes": [
+      "Adventure, Singing, Dancing"
+    ],
+    "dislikes": [
+      "Staying at home, Repetitive tasks"
+    ]
+  }
+},
+{
+  "_id": "663b6d0fca78a65fbc387616"
+  ,
+  "userId":  "663b6b2aca78a65fbc3875f3"
+,
+  "name": "Da Wei",
+  "birthday": "1990-09-12T00:00:00.000Z",
+  "gender": "Male",
+  "relationship": "Work Colleague",
+  "mbtiType": "ENTJ",
+  "hobbies": [
+    "Investing, Reading"
+  ],
+  "skills": [
+    "Investing, Financial Analysis, Strategic Planning"
+  ],
+  "preferences": {
+    "likes": [
+      "Stock market, Buying cars"
+    ],
+    "dislikes": [
+      "Wasting time"
+    ]
+  }
+}]
