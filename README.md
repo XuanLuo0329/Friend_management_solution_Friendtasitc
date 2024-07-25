@@ -23,7 +23,7 @@ To set up Friendtastic on your system using Docker, follow these steps:
 ### Setting up the project
 1. **Clone the repository:**
    ```bash
-   
+   git clone https://github.com/XuanLuo0329/Friend_management_solution_Friendtasitc.git
 
    cd friendtastic
    ```
@@ -52,12 +52,7 @@ To set up Friendtastic on your system using Docker, follow these steps:
 5. **Test users accounts:**
    
    Enjoy exploring the application! You can register your own account, or you may use an account we have already created for you. The account details are as follows:
-   - Username: QizhengHu@outlook.com, Password: Test123456!
-   - Username: JiayiChen@outlook.com, Password: Test123456!
-   - Username: JieHong@outlook.com, Password: Test123456!
    - Username: XuanLuo@outlook.com, Password: Test123456!
-   - Username: JunweiLi@outlook.com, Password: Test123456!
-   - Username: RyanCheung@outlook.com, Password: Test123456!
     
 
 ## Explore Friendtastic
@@ -299,5 +294,5 @@ For the backend application, you need to do below settings.
 Thank you for exploring Friendtastic! We hope this guide helps you understand how to set up and test our application effectively. We appreciate your interest and are excited to see how Friendtastic can enhance your ability to manage and enrich your personal relationships.
 
 ## Deployment
-Our application is deployed at [https://www.friendtastic.fun](https://www.friendtastic.fun). 
+This application is deployed at [https://www.friendtastic.fun](https://www.friendtastic.fun). 
 
